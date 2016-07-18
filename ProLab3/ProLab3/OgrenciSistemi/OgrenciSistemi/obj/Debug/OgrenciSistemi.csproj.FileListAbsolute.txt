@@ -1,0 +1,116 @@
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesi.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenci.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDersler.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumler.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlar.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumler.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerEkle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDersler.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenci.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesi.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlar.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiEkle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerEkle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarEkle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciEkle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerDuzenle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerDuzenle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarDuzenle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciDuzenle.resources
+C:\Users\Lenovo\Desktop\son a\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumler.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDersler.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenci.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesi.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlar.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiDuzenle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciEkle.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumler.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDersler.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenci.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesi.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlar.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ProLab3 (1)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarArama.resources
+C:\Users\Burak\Desktop\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarArama.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumler.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDersler.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarArama.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlarEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenci.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesi.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmNotlar.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiDuzenle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciEkle.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmDerslerArama.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgretimUyesiArama.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmOgrenciArama.resources
+C:\Users\Lenovo\Desktop\ProLab3 (3)\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.frmBolumlerArama.resources
+C:\Users\Lenovo\Desktop\ProLab3\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Lenovo\Desktop\ProLab3\ProLab3\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb

@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFDD4EA3-D4C7-4B72-AE2C-827685C75BE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OgrenciSistemi</RootNamespace>
+    <AssemblyName>OgrenciSistemi</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBolumlerArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBolumlerArama.Designer.cs">
+      <DependentUpon>frmBolumlerArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBolumlerDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBolumlerDuzenle.Designer.cs">
+      <DependentUpon>frmBolumlerDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBolumler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBolumler.Designer.cs">
+      <DependentUpon>frmBolumler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBolumlerEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBolumlerEkle.Designer.cs">
+      <DependentUpon>frmBolumlerEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDersler.Designer.cs">
+      <DependentUpon>frmDersler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDerslerArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDerslerArama.Designer.cs">
+      <DependentUpon>frmDerslerArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDerslerDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDerslerDuzenle.Designer.cs">
+      <DependentUpon>frmDerslerDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDerslerEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDerslerEkle.Designer.cs">
+      <DependentUpon>frmDerslerEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotlarArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotlarArama.Designer.cs">
+      <DependentUpon>frmNotlarArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotlarDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotlarDuzenle.Designer.cs">
+      <DependentUpon>frmNotlarDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotlarEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotlarEkle.Designer.cs">
+      <DependentUpon>frmNotlarEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenci.Designer.cs">
+      <DependentUpon>frmOgrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciArama.Designer.cs">
+      <DependentUpon>frmOgrenciArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciDuzenle.Designer.cs">
+      <DependentUpon>frmOgrenciDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgretimUyesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgretimUyesi.Designer.cs">
+      <DependentUpon>frmOgretimUyesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotlar.Designer.cs">
+      <DependentUpon>frmNotlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgretimUyesiArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgretimUyesiArama.Designer.cs">
+      <DependentUpon>frmOgretimUyesiArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgretimUyesiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgretimUyesiDuzenle.Designer.cs">
+      <DependentUpon>frmOgretimUyesiDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgretimUyesiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgretimUyesiEkle.Designer.cs">
+      <DependentUpon>frmOgretimUyesiEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciEkle.Designer.cs">
+      <DependentUpon>frmOgrenciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBolumlerArama.resx">
+      <DependentUpon>frmBolumlerArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBolumlerDuzenle.resx">
+      <DependentUpon>frmBolumlerDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBolumler.resx">
+      <DependentUpon>frmBolumler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBolumlerEkle.resx">
+      <DependentUpon>frmBolumlerEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDersler.resx">
+      <DependentUpon>frmDersler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDerslerArama.resx">
+      <DependentUpon>frmDerslerArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDerslerDuzenle.resx">
+      <DependentUpon>frmDerslerDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDerslerEkle.resx">
+      <DependentUpon>frmDerslerEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotlarArama.resx">
+      <DependentUpon>frmNotlarArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotlarDuzenle.resx">
+      <DependentUpon>frmNotlarDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotlarEkle.resx">
+      <DependentUpon>frmNotlarEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenci.resx">
+      <DependentUpon>frmOgrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciArama.resx">
+      <DependentUpon>frmOgrenciArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciDuzenle.resx">
+      <DependentUpon>frmOgrenciDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgretimUyesi.resx">
+      <DependentUpon>frmOgretimUyesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotlar.resx">
+      <DependentUpon>frmNotlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgretimUyesiArama.resx">
+      <DependentUpon>frmOgretimUyesiArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgretimUyesiDuzenle.resx">
+      <DependentUpon>frmOgretimUyesiDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgretimUyesiEkle.resx">
+      <DependentUpon>frmOgretimUyesiEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciEkle.resx">
+      <DependentUpon>frmOgrenciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\OgretimUyesi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Ogrenci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Cikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Bolum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Not.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Ders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\OgrenciSistemi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Duzenle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Arama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Geri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sil.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
